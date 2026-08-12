@@ -49,15 +49,14 @@
 
 ### 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bayronjrc&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayronjrc&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BAYRONJRC&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bayronjrc&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Contacto
 
 <p align="left">
-  <a href="TU_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:bayron.rodriguez.centeno@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
